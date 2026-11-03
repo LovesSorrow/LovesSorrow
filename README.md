@@ -1,6 +1,6 @@
-## My Portfolio
+## Portfolio & Projects
 
 Explore my work in game development,
 software engineering, and creative projects.
 
-[View My Portfolio (PDF)](./assets/LovesSorrow-Portfolio.pdf)
+[View (PDF)](./assets/LovesSorrow-Portfolio.pdf)
